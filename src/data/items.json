@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "The Fault in our Stars",
+    "price": 400,
+    "imgUrl": "/assets/the_fault_in_our_stars.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Harry Potter and The Philosopher's Stone",
+    "price": 400,
+    "imgUrl": "/assets/the_fault_in_our_stars.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter and The Chamber of Secrets",
+    "price": 400,
+    "imgUrl": "/assets/the_fault_in_our_stars.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter and The Prisoner of Azkaban",
+    "price": 400,
+    "imgUrl": "/assets/the_fault_in_our_stars.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and The Deathly Hallows",
+    "price": 400,
+    "imgUrl": "/assets/the_fault_in_our_stars.jpg"
+  }
+]
