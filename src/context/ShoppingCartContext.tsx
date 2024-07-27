@@ -19,7 +19,7 @@ type ShoppingCartContext = {
 const ShoppingCartContext = createContext({} as ShoppingCartContext);
 
 // custom hook
-export const useShoppingCart = () => {
+export const useShoppingCartContext = () => {
   return useContext(ShoppingCartContext);
 };
 
